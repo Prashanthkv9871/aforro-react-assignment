@@ -76,7 +76,7 @@ const RevenueChart = () => {
           axis: {
             ticks: {
               text: {
-                fontSize: 12,
+                fontSize: 11,
                 fill: "#9CA3AF",
               },
             },

@@ -59,7 +59,7 @@ const VisitorInsightData = [
 
 export const VisitorInsightChart = () => (
   <div className="bg-white p-4 rounded-xl shadow-card h-80 lg:h-auto">
-    <h3 className="font-semibold mb-2 text-[#05004E]">Customer Satisfaction</h3>
+    <h3 className="font-semibold mb-2 text-[#05004E]">Visitor Insights</h3>
 
     <div style={{ height: "100%", width: "100%" }} className="pb-6">
       <ResponsiveLine

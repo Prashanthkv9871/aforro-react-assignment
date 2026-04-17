@@ -37,9 +37,9 @@ const Sidebar = () => {
   ];
 
   return (
-    <div className="w-68 bg-white  flex flex-col">
+    <div className="w-68 bg-white flex flex-col">
       <div>
-        <div className="sticky top-0 bg-white flex items-center gap-4 mb-10 p-4">
+        <div className="sticky top-0 bg-white flex items-center gap-4 mb-4 px-4 py-2">
           <img src="/logo.svg" alt="Logo" />
           <h1 className="font-semibold text-3xl text-[#151D48]">Dabang</h1>
         </div>
